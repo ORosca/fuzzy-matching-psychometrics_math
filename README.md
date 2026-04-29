@@ -1,4 +1,5 @@
 # fuzzy-matching-psychometrics_math
+This repository provides a reproducible, modular R workflow for the operational psychometrics of the DAACS mathematics assessment. It transforms raw, multi-wave institutional data into analysis-ready formats, resolves inconsistent legacy item identifiers using fuzzy string-distance matching (Jaro-Winkler/Levenshtein), and conducts Differential Item Functioning (DIF) analyses to evaluate item fairness across diverse student subgroups. The pipeline spans data cleaning, item harmonization, and sample-size reporting for downstream IRT and Bayesian modeling.
 # DAACS Mathematics Assessment: Operational Psychometrics & Data Engineering
 
 This repository contains an end-to-end, reproducible R workflow for the data processing, item harmonization, and fairness testing of the DAACS mathematics assessment. 
