@@ -14,7 +14,7 @@ The pipeline is designed to transform raw, multi-wave institutional data into an
 
 ## Repository Structure
 
-    daacs-math-psychometrics/
+    fuzzy-matching-psychometrics_math/
     ├── README.md
     ├── R/
     │   └── utils_math_pipeline.R                 # Shared helper functions (QA, missingness, recoding)
